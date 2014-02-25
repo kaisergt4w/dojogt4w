@@ -1,0 +1,42 @@
+eXercícios de FiXação
+1. Faça um programa que efetue o cálculo de uma prestação em atraso. Para tanto, utilize a fórmula PREST 
+= VALOR + (VALOR * (TAXA / 100) * TEMPO). O programa deverá chamar uma função que faça a entrada 
+dos dados e o cálculo da prestação e retorne o valor deste cálculo para a função principal (main). Finalmente 
+apresentar o valor da prestação.
+2. Faça um programa que possua uma função que efetue e permita apresentar o somatório dos N primeiros 
+números inteiros. (1+2+3+4+5+6+...+N). Esta função deverá receber da função principal (main) o número N e 
+no final esta mesma função deverá retornar o valor do somatório, que deverá ser apresentado ao usuário pela 
+função principal (main).
+3. Faça um programa que possua uma função para calcular e apresentar o valor de uma potência de um 
+número qualquer. Ou seja, ao informar para a função o número e sua potência, deverá ser apresentado o 
+seu resultado. Por exemplo, se for mencionado no programa principal a função POTENCIA(2,3), deverá ser 
+apresentado o valor 8.
+4. Faça um programa que possua uma função para calcular e apresentar a série de Fibonacci de N termos. 
+A série de Fibonacci é formada pela seqüência: 1, 1, 2, 3, 5, 8, 13, 21, 34,...etc. Está série caracteriza-se pela 
+soma de um termo posterior com o seu anterior subseqüente. A função main deve apenas chamar a função que 
+calcula a série de Fibonacci.
+5. Faça um programa que efetua a leitura de um número inteiro e apresente uma mensagem informando se 
+o número é par ou ímpar. Usar uma função que identifique se o número é par ou ímpar.
+6. Faça um programa que apresente um menu com as seguintes opções de cálculos:
+• Calcular a área do quadrado
+• Calcular a área do retângulo
+• Calcular a área do circulo
+• Encerrar o programa
+Estes cálculos devem ser realizados em funções, ou seja, deverá ter uma função para cada tipo de cálculo. 
+Cada função deverá ter entrada de dados (digitação dos dados para o cálculo), processamento dos dados 
+(cálculos propriamente ditos) e a saída de dados (apresentação dos resultados dos cálculos). 
+7. Faça um programa que apresente um menu com as seguintes opções e efetue os respectivos cálculos 
+através de funções:
+• Calcular o volume de uma lata de óleo
+• Calcular o volume de uma caixa
+• Encerrar o programa
+8. Em uma Escola Técnica de Informática, há um professor que faz 6 provas. Faça um programa para 
+calcular a média dos alunos de uma escola. O programa deverá ter um menu com as seguintes informações:
+• Calcular a média
+• Encerrar o programa
+O cálculo da média deverá ser realizado em uma função onde deverá ser solicitado o valor das 6 notas 
+escolares, efetuar o cálculo da média e apresentar no final o resultado obtido conforme a tabela a seguir:
+[00,05) - Reprovado
+[05,07) - Recuperação
+[07,09) - Satisfatório
+[09,10] - Ótimo

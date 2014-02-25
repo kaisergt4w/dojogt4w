@@ -1,0 +1,32 @@
+5 Desenvolva os programas a seguir em português estruturado:
+a) Ler dois valores numéricos. Calcular e apresentar o produto entre eles.
+b) Ler três valores numéricos. Calcular e apresentar a média entre eles.
+c) Ler a idade de uma pessoa. Calcular e apresentar a existência desta pessoa em número de dias, em 
+número de horas, em número de minutos e em número de segundos.
+d) Ler uma temperatura em graus Fahrenheit e apresenta-la convertida em graus Celsius. A fórmula de 
+conversão é C  ( F – 32 ) * ( 5 / 9 ), sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
+e) Calcular e apresentar o valor do volume de uma lata de óleo, utilizando a fórmula: VOLUME  
+3.14159 * RAIO h 2 * ALTURA.
+f) Efetuar o cálculo da quantidade de litros de combustível gasta em uma viagem, utilizando um automóvel 
+que faz 12 KM por litro. Para obter o cálculo, o usuário deve fornecer o tempo gasto (TEMPO) e a velocidade 
+média (VELOCIDADE) durante a viagem. Desta forma, será possível obter a distância percorrida com a fórmula 
+DISTÂNCIA  TEMPO * VELOCIDADE. Possuindo o valor da distância, basta calcular a quantidade de litros 
+de combustível utilizada na viagem com a fórmula LITROS_USADOS  DISTÂNCIA / 12. Ao final o programa 
+deve apresentar os valores da velocidade média (VELOCIDADE), tempo gasto na viagem (TEMPO), a distância 
+percorrida (DISTÂNCIA) e a quantidade de litros (LITROS_USADOS) utilizada na viagem.
+g) Efetuar o cálculo e a apresentação do valor de uma prestação em atraso, utilizando a fórmula PRESTAÇÃO 
+ VALOR + (VALOR * (TAXA / 100) * TEMPO).
+h) Ler dois valores (inteiros, reais ou caracteres) para as variáveis A e B, e efetuar a troca dos valores de 
+forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A 
+. Apresentar os valores trocados.
+i) Elaborar um programa que calcule e apresente o volume de uma caixa retangular por meio da fórmula 
+VOLUME  COMPRIMENTO * LARGURA * ALTURA.
+j) Efetuar a leitura de um número inteiro e apresentar o resultado do quadrado desse número
+k) Elaborar um programa que leia as 4 notas escolares de um aluno. Calcular e apresentar a média do 
+aluno.
+l) Elaborar um programa que leia a idade de duas pessoas. Calcular e apresentar a diferença das idades.
+m) Elaborar um programa que leia de um vendedor o salário fixo, o valor total de vendas por ele efetuadas na 
+loja e o percentual de comissão que ganha pelas vendas. Calcular e apresentar o valor da comissão que ele vai 
+receber e o salário total.
+n) Elaborar um programa que calcula a área de um triângulo. O programa deve ler o valor da base e o valor 
+da altura do triângulo. A fórmula da área é: area = (base * altura) / 2. Após o calculo apresentar a área.

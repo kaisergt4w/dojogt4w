@@ -1,0 +1,34 @@
+1. Faça um programa em Java que leia 3 notas, calcule a média e informe se o aluno 
+foi aprovado ou não (A média para ser aprovado é 6.0). 
+ 
+2. Altere o programa acima (exercício 1), possibilitando que o usuário digite quantas 
+notas ele quiser. O programa deve ler primeiramente a quantidade de notas. No 
+final deve ser informada a média e se o aluno foi aprovado ou não. 
+ 
+3. Escreva um programa que determine o grau de obesidade de uma pessoa, sendo 
+fornecido o peso e a altura da pessoa. O grau de obesidade é determinando pelo 
+índice de massa corpórea (Massa = Peso / Altura²) através da tabela abaixo: 
+ 
+Massa Compórea Grau de Obesidade 
+< 26 Normal 
+>= 26 e < 30 Obeso 
+>= 30 Obeso Mórbido 
+ 
+4. Faça um program que leia o mês em número e mostre este mês por estenso. 
+ 
+5. Faça um programa que mostre todos os números inteiros pares de 2 a 100. 
+ 
+6. Faça um programa para gerar e exibir os números inteiros de 100 até 1. 
+ 
+7. Faça um programa que leia um número N, some todos os números inteiros de 1 a 
+N, e mostre o resultado obtido. 
+ 
+8. Faça um programa que leia um número inteiro qualquer e informe se este número 
+é primo ou não. 
+ 
+9. Faça um programa que, para um número indeterminado de pessoas: 
+ Leia a idade de cada pessoa, sendo que a leitura de idade 0 (zero) indica o 
+fim dos dados (flag) e não deve ser considerada; 
+ Calcule e escreve o número de pessoas; 
+ Calcule e escreva a idade média do grupo; 
+ Calculo e escreve a menora e a maior idade.

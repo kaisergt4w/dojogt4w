@@ -1,4 +1,4 @@
-package foo;
+package br.com.gt4w.pojo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

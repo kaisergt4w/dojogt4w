@@ -1,4 +1,4 @@
-package pojo;
+package br.com.gt4w.pojo;
 
 /**
  * Hello world!
